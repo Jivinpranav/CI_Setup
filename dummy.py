@@ -1,1 +1,1 @@
-print("this should fail")
+print("this should pass")
