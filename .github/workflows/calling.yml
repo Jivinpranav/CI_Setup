@@ -5,7 +5,7 @@ on:
 
 jobs:
   deploy:
-    uses: ./.github/workflows/11-1-reusable-workflows.yml
+    uses: Githubactions/.github/workflows/11-1-reusable-workflows.yml@main
     with:
       target-directory: "src"
 
